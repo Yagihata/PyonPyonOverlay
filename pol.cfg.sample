@@ -1,0 +1,8 @@
+[DEFAULT]
+list_width = {"server_id": 200}
+list_height = {"server_id": 400}
+list_duration = {"server_id": 3000}
+list_enable = {"server_id": 1}
+list_pixel = {"server_id": 100}
+list_loop = {"server_id": true}
+
